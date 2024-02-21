@@ -2,7 +2,7 @@ Please don't hesitate to contribute to this repo!
 
 # Bug Bounty Beginner's Roadmap
 
-Hi! I'm **Ansh Bhawnani**. I am currently working as a Security Engineer and also a part time content creator. I am creating this repository for everyone to contribute as to guide the young and enthusiastic minds for starting their career in bug bounties. More content will be added regularly. Keep following. So let's get started!
+Hi! I'm **Mohamed Hussain**. I am currently studying computer science engineering and also a part time bug boundy hunter. I am creating this repository for everyone to contribute as to guide the young and enthusiastic minds for starting their career in bug bounties. More content will be added regularly. Keep following. So let's get started!
 
 ***NOTE:*** The bug bounty landscape has changed since the last few years. The issues we used to find easily an year ago would not be easy now. Automation is being used rigorously and most of the "*low hanging fruits*" are being duplicated if you are out of luck. If you want to start doing bug bounty, you will have to be determined to be consistent and focused, as the competition is very high.
 
@@ -112,10 +112,7 @@ Hi! I'm **Ansh Bhawnani**. I am currently working as a Security Engineer and als
 		 - XSSRat: https://www.youtube.com/c/TheXSSrat
 		 - Zwink: https://www.youtube.com/channel/UCDl4jpAVAezUdzsDBDDTGsQ
 		 - Live Overflow :https://www.youtube.com/c/LiveOverflow
-	 - **Hindi**
-		 - Spin The Hack: https://www.youtube.com/c/SpinTheHack
-		 - Pratik Dabhi: https://www.youtube.com/c/impratikdabhi
-
+     
 ## Join Twitter Today!
 
 World class security researchers and bug bounty hunters are on Twitter. Where are you? Join Twitter now and get daily updates on new issues, vulnerabilities, zero days, exploits, and join people sharing their methodologies, resources, notes and experiences in the cyber security world!
